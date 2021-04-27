@@ -1,4 +1,4 @@
-# To run the app locally:
+   To run the app locally:
 1. Create virtual environment 
 
    Run python -m venv env
